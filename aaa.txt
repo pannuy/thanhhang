@@ -1,2 +1,2 @@
 hello bil
-test brach lan 2
+test lan 2 khong duoc thi thoi
