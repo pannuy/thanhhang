@@ -1,6 +1,0 @@
-hello bil
-<<<<<<< HEAD
-123 con bil
-=======
-test lan 2 khong duoc thi thoi
->>>>>>> origin/version1
